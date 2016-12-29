@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tmob.FoursquareAPI", "Tmob.FoursquareAPI\Tmob.FoursquareAPI.csproj", "{5DA573E3-5F61-4164-AEF4-A174CCD0D765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tmob.InitService", "Tmob.InitService\Tmob.InitService.csproj", "{684F9176-1353-45D1-9040-75556468DA27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tmob.WinForms", "Tmob.WinForms\Tmob.WinForms.csproj", "{7432B0AF-69D8-4ABE-B602-2DB8195F2B3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DA573E3-5F61-4164-AEF4-A174CCD0D765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA573E3-5F61-4164-AEF4-A174CCD0D765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA573E3-5F61-4164-AEF4-A174CCD0D765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA573E3-5F61-4164-AEF4-A174CCD0D765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684F9176-1353-45D1-9040-75556468DA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684F9176-1353-45D1-9040-75556468DA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684F9176-1353-45D1-9040-75556468DA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684F9176-1353-45D1-9040-75556468DA27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7432B0AF-69D8-4ABE-B602-2DB8195F2B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7432B0AF-69D8-4ABE-B602-2DB8195F2B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7432B0AF-69D8-4ABE-B602-2DB8195F2B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7432B0AF-69D8-4ABE-B602-2DB8195F2B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
